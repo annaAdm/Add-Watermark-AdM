@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Flask environment folder
+env/
+
+# Flask migration folder
+migrations/
+
+# Flask SQLite database file
+db.sqlite
+
+# Flask generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Flask logs
+logs/
+*.log
+
+# Flask database folder
+instance/
