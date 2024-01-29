@@ -71,7 +71,7 @@ def add_watermark(image1, image2_path):
 
 def on_click():
     _, image1 = open_file()  # here i get image1
-    image2_path = "wm.jpg"
+    image2_path = "AnnaAdM.jpg"
     add_watermark(image1, image2_path)
 
 
